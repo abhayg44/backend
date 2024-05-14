@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "asdf",
+    "DB_PASSWORD": "asdf1234",
+    "DB_NAME": "travelblog",
+    "GOOGLE_API_KEY": "AIzaSyCgqhJiTOvFe-k1iDW2y9pOPSnmOTI7z4A",
+    "JWT_KEY": "supersecret_dont_share"
+  }
+}
